@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abd ur Rehman Rehan
-- 👀 I’m interested in Cyber and AI
+- 👋 Hi, I’m @Abdur Rehman Rehan
+- 👀 I’m interested in Cyber security, Software development, AI, Crypto.
 - 🌱 I’m currently learning software engineering at MCS, NUST
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cyber Security Tools.
 - 📫 You can reach me via email rehanabdurrehman2003@gmail.com
 
 <!---
